@@ -1,0 +1,25 @@
+name: fno-daily
+on:
+  schedule:
+    - cron: "0 2 * * 1-5"      # 07:30 IST, Mon-Fri (GitHub may delay scheduled runs by 10-30 min)
+  workflow_dispatch: {}        # lets you press "Run workflow" manually
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pandas numpy requests
+      - run: python fno_snapshot.py
+      - name: Commit data
+        run: |
+          git config user.name "fno-bot"
+          git config user.email "fno-bot@users.noreply.github.com"
+          git add data
+          git commit -m "F&O data $(date -u +%F)" || echo "nothing to commit"
+          git push
