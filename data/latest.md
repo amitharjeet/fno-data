@@ -1,4 +1,4 @@
-# F&O snapshot — data for session 2026-10-19 (generated 2026-10-20T07:48+05:30 IST)
+# F&O snapshot — data for session 2026-10-19 (generated 2026-10-21T07:49+05:30 IST)
 Source: NSE end-of-day bhavcopy files (public). F&O ban list raw: []
 
 ## TVSMOTOR
