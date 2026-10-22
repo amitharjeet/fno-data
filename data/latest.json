@@ -1,6 +1,6 @@
 {
- "generated_at_ist": "2026-10-21T07:49+05:30",
- "data_session": "2026-10-19",
+ "generated_at_ist": "2026-10-22T07:50+05:30",
+ "data_session": "2026-10-21",
  "source": "NSE end-of-day bhavcopy files (public)",
  "fo_ban_list_today_raw": [],
  "stocks": {
@@ -8,39 +8,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 4037.31,
-    "sma50": 4180.38,
-    "sma200": 3779.56,
+    "sma20": 4029.19,
+    "sma50": 4171.41,
+    "sma200": 3781.36,
     "dma200_note": null,
-    "rsi14": 51.52,
-    "rsi14_prev": 53.25,
-    "macd": -34.31,
-    "macd_signal": -49.41,
-    "macd_hist": 15.1,
-    "macd_hist_prev": 10.56,
+    "rsi14": 45.41,
+    "rsi14_prev": 51.52,
+    "macd": -33.9,
+    "macd_signal": -46.31,
+    "macd_hist": 12.41,
+    "macd_hist_prev": 15.1,
     "supertrend": 4151.12,
     "supertrend_dir": "DOWN",
-    "atr14": 109.5,
-    "vol_last": 472084,
-    "vol_avg20": 727578,
-    "vol_ratio": 0.65,
+    "atr14": 114.78,
+    "vol_last": 488520,
+    "vol_avg20": 685948,
+    "vol_ratio": 0.71,
     "pivots": {
-     "P": 4089.0,
-     "R1": 4123.0,
-     "S1": 4040.0,
-     "R2": 4172.0,
-     "S2": 4006.0,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 4005.83,
+     "R1": 4080.37,
+     "S1": 3918.07,
+     "R2": 4168.13,
+     "S2": 3843.53,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 3969.7,
-      "h": 4064.0,
-      "l": 3942.4,
-      "c": 4020.0,
-      "v": 586537
-     },
      {
       "date": "2026-10-16",
       "o": 4050.0,
@@ -56,17 +48,19 @@
       "l": 4055.0,
       "c": 4074.0,
       "v": 472084
+     },
+     {
+      "date": "2026-10-21",
+      "o": 4079.0,
+      "h": 4093.6,
+      "l": 3931.3,
+      "c": 3992.6,
+      "v": 488520
      }
     ],
     "high3": 4138.0,
-    "low3": 3942.4,
+    "low3": 3931.3,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": [
-       "bullish engulfing"
-      ]
-     },
      {
       "date": "2026-10-16",
       "flags": []
@@ -76,137 +70,141 @@
       "flags": [
        "shooting-star-like"
       ]
+     },
+     {
+      "date": "2026-10-21",
+      "flags": []
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 4075.5,
-    "fut_prev_close": 4090.8,
-    "spot_underlying": 4073.91,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 3979.4,
+    "fut_prev_close": 4075.5,
+    "spot_underlying": 3992.54,
     "lot_size": 175,
-    "oi": 7089775,
-    "oi_change": -69125,
-    "oi_change_pct": -0.97,
-    "fut_volume": 3428,
-    "fut_price_change_pct": -0.37,
+    "oi": 7006125,
+    "oi_change": -83650,
+    "oi_change_pct": -1.18,
+    "fut_volume": 3872,
+    "fut_price_change_pct": -2.36,
     "buildup": "LONG UNWINDING",
-    "premium_vs_spot": 1.59,
-    "premium_pct": 0.04,
+    "premium_vs_spot": -13.14,
+    "premium_pct": -0.33,
     "next_expiry": "2026-11-23",
-    "next_oi": 300475,
-    "next_oi_change": 72975,
-    "rollover_pct": 4.07,
+    "next_oi": 466025,
+    "next_oi_change": 165550,
+    "rollover_pct": 6.24,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 1782025,
-     "put_oi_total": 1370425,
-     "pcr_oi": 0.77,
+     "call_oi_total": 1664425,
+     "put_oi_total": 1246700,
+     "pcr_oi": 0.75,
      "max_pain": 4050.0,
      "top_call_oi": [
       {
-       "strike": 4200.0,
-       "oi": 272475,
-       "oi_change": -10500,
-       "ltp": 14.6
+       "strike": 4100.0,
+       "oi": 262500,
+       "oi_change": -2450,
+       "ltp": 14.95
       },
       {
-       "strike": 4100.0,
-       "oi": 264950,
-       "oi_change": -25725,
-       "ltp": 44.7
+       "strike": 4200.0,
+       "oi": 212975,
+       "oi_change": -59500,
+       "ltp": 5.45
       },
       {
        "strike": 4000.0,
-       "oi": 180425,
-       "oi_change": -12075,
-       "ltp": 103.5
-      },
-      {
-       "strike": 4500.0,
-       "oi": 113050,
-       "oi_change": 4375,
-       "ltp": 1.15
+       "oi": 187425,
+       "oi_change": 7000,
+       "ltp": 44.8
       },
       {
        "strike": 4050.0,
-       "oi": 112875,
-       "oi_change": 1925,
-       "ltp": 70.8
+       "oi": 115500,
+       "oi_change": 2625,
+       "ltp": 26.2
+      },
+      {
+       "strike": 4150.0,
+       "oi": 111475,
+       "oi_change": -700,
+       "ltp": 9.4
       }
      ],
      "top_put_oi": [
       {
+       "strike": 3950.0,
+       "oi": 150500,
+       "oi_change": 6650,
+       "ltp": 41.75
+      },
+      {
        "strike": 4000.0,
-       "oi": 194425,
-       "oi_change": 2275,
-       "ltp": 30.1
+       "oi": 130900,
+       "oi_change": -63525,
+       "ltp": 64.95
       },
       {
        "strike": 4100.0,
-       "oi": 174300,
-       "oi_change": 7700,
-       "ltp": 71.2
+       "oi": 126875,
+       "oi_change": -47425,
+       "ltp": 135.4
       },
       {
-       "strike": 3950.0,
-       "oi": 143850,
-       "oi_change": -2975,
-       "ltp": 19.35
+       "strike": 3900.0,
+       "oi": 110775,
+       "oi_change": 37275,
+       "ltp": 25.15
       },
       {
-       "strike": 4150.0,
-       "oi": 96250,
-       "oi_change": 13475,
-       "ltp": 102.2
-      },
-      {
-       "strike": 4050.0,
-       "oi": 93100,
-       "oi_change": 7175,
-       "ltp": 47.35
+       "strike": 4200.0,
+       "oi": 82425,
+       "oi_change": -8575,
+       "ltp": 229.75
       }
      ],
      "top_call_oi_added": [
       {
-       "strike": 4150.0,
-       "oi": 112175,
-       "oi_change": 16450,
+       "strike": 4000.0,
+       "oi": 187425,
+       "oi_change": 7000,
+       "ltp": 44.8
+      },
+      {
+       "strike": 4050.0,
+       "oi": 115500,
+       "oi_change": 2625,
        "ltp": 26.2
       },
       {
-       "strike": 4300.0,
-       "oi": 98700,
-       "oi_change": 11900,
-       "ltp": 4.45
-      },
-      {
-       "strike": 4350.0,
-       "oi": 32550,
-       "oi_change": 6825,
-       "ltp": 2.55
+       "strike": 4650.0,
+       "oi": 3500,
+       "oi_change": 0,
+       "ltp": 0.15
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 4150.0,
-       "oi": 96250,
-       "oi_change": 13475,
-       "ltp": 102.2
+       "strike": 3900.0,
+       "oi": 110775,
+       "oi_change": 37275,
+       "ltp": 25.15
       },
       {
-       "strike": 4100.0,
-       "oi": 174300,
-       "oi_change": 7700,
-       "ltp": 71.2
+       "strike": 3600.0,
+       "oi": 79100,
+       "oi_change": 11200,
+       "ltp": 2.2
       },
       {
-       "strike": 4050.0,
-       "oi": 93100,
-       "oi_change": 7175,
-       "ltp": 47.35
+       "strike": 3750.0,
+       "oi": 42350,
+       "oi_change": 9100,
+       "ltp": 5.3
       }
      ]
     }
@@ -216,39 +214,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 965.4,
-    "sma50": 1032.93,
-    "sma200": 1008.51,
+    "sma20": 960.06,
+    "sma50": 1028.72,
+    "sma200": 1008.24,
     "dma200_note": null,
-    "rsi14": 38.98,
-    "rsi14_prev": 41.2,
-    "macd": -24.6,
-    "macd_signal": -25.42,
-    "macd_hist": 0.83,
-    "macd_hist_prev": 1.59,
-    "supertrend": 1013.63,
+    "rsi14": 35.65,
+    "rsi14_prev": 38.98,
+    "macd": -26.47,
+    "macd_signal": -25.63,
+    "macd_hist": -0.83,
+    "macd_hist_prev": 0.83,
+    "supertrend": 1007.38,
     "supertrend_dir": "DOWN",
-    "atr14": 29.1,
-    "vol_last": 3408806,
-    "vol_avg20": 4594643,
-    "vol_ratio": 0.74,
+    "atr14": 29.79,
+    "vol_last": 5557748,
+    "vol_avg20": 4521552,
+    "vol_ratio": 1.23,
     "pivots": {
-     "P": 929.73,
-     "R1": 935.47,
-     "S1": 920.77,
-     "R2": 944.43,
-     "S2": 915.03,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 913.65,
+     "R1": 927.3,
+     "S1": 891.3,
+     "R2": 949.65,
+     "S2": 877.65,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 948.9,
-      "h": 956.85,
-      "l": 936.4,
-      "c": 943.8,
-      "v": 2332139
-     },
      {
       "date": "2026-10-16",
       "o": 947.65,
@@ -264,15 +254,19 @@
       "l": 924.0,
       "c": 926.5,
       "v": 3408806
+     },
+     {
+      "date": "2026-10-21",
+      "o": 936.0,
+      "h": 936.0,
+      "l": 900.0,
+      "c": 904.95,
+      "v": 5557748
      }
     ],
-    "high3": 956.85,
-    "low3": 924.0,
+    "high3": 951.2,
+    "low3": 900.0,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": []
-     },
      {
       "date": "2026-10-16",
       "flags": []
@@ -280,137 +274,141 @@
      {
       "date": "2026-10-19",
       "flags": []
+     },
+     {
+      "date": "2026-10-21",
+      "flags": []
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 926.3,
-    "fut_prev_close": 937.6,
-    "spot_underlying": 926.5,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 905.65,
+    "fut_prev_close": 926.3,
+    "spot_underlying": 904.96,
     "lot_size": 825,
-    "oi": 25485075,
-    "oi_change": -278850,
-    "oi_change_pct": -1.08,
-    "fut_volume": 2390,
-    "fut_price_change_pct": -1.21,
+    "oi": 25184775,
+    "oi_change": -300300,
+    "oi_change_pct": -1.18,
+    "fut_volume": 6202,
+    "fut_price_change_pct": -2.23,
     "buildup": "LONG UNWINDING",
-    "premium_vs_spot": -0.2,
-    "premium_pct": -0.02,
+    "premium_vs_spot": 0.69,
+    "premium_pct": 0.08,
     "next_expiry": "2026-11-23",
-    "next_oi": 2074875,
-    "next_oi_change": 314325,
-    "rollover_pct": 7.53,
+    "next_oi": 3007125,
+    "next_oi_change": 932250,
+    "rollover_pct": 10.67,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 12296625,
-     "put_oi_total": 7076850,
-     "pcr_oi": 0.58,
+     "call_oi_total": 12841950,
+     "put_oi_total": 7326825,
+     "pcr_oi": 0.57,
      "max_pain": 960.0,
      "top_call_oi": [
       {
        "strike": 1000.0,
-       "oi": 2863575,
-       "oi_change": 169125,
-       "ltp": 2.85
-      },
-      {
-       "strike": 980.0,
-       "oi": 2459325,
-       "oi_change": -356400,
-       "ltp": 5.05
+       "oi": 2976600,
+       "oi_change": 113025,
+       "ltp": 1.6
       },
       {
        "strike": 960.0,
-       "oi": 2206875,
-       "oi_change": -110550,
-       "ltp": 9.2
+       "oi": 2745600,
+       "oi_change": 538725,
+       "ltp": 4.1
+      },
+      {
+       "strike": 980.0,
+       "oi": 1993200,
+       "oi_change": -466125,
+       "ltp": 2.5
       },
       {
        "strike": 940.0,
-       "oi": 1269675,
-       "oi_change": 72600,
-       "ltp": 15.8
+       "oi": 1551825,
+       "oi_change": 282150,
+       "ltp": 8.0
       },
       {
-       "strike": 1020.0,
-       "oi": 754050,
-       "oi_change": -9075,
-       "ltp": 1.65
+       "strike": 920.0,
+       "oi": 713625,
+       "oi_change": 333300,
+       "ltp": 14.35
       }
      ],
      "top_put_oi": [
       {
-       "strike": 940.0,
-       "oi": 1462725,
-       "oi_change": 9075,
-       "ltp": 29.3
-      },
-      {
-       "strike": 980.0,
-       "oi": 1363725,
-       "oi_change": -23925,
-       "ltp": 58.35
-      },
-      {
-       "strike": 900.0,
-       "oi": 774675,
-       "oi_change": -52800,
-       "ltp": 11.25
+       "strike": 960.0,
+       "oi": 1366200,
+       "oi_change": 708675,
+       "ltp": 58.25
       },
       {
        "strike": 920.0,
-       "oi": 670725,
-       "oi_change": 31350,
-       "ltp": 18.9
+       "oi": 1221000,
+       "oi_change": 550275,
+       "ltp": 28.6
       },
       {
-       "strike": 960.0,
-       "oi": 657525,
-       "oi_change": -41250,
-       "ltp": 42.6
+       "strike": 940.0,
+       "oi": 873675,
+       "oi_change": -589050,
+       "ltp": 42.05
+      },
+      {
+       "strike": 980.0,
+       "oi": 740850,
+       "oi_change": -622875,
+       "ltp": 76.65
+      },
+      {
+       "strike": 900.0,
+       "oi": 633600,
+       "oi_change": -141075,
+       "ltp": 18.15
       }
      ],
      "top_call_oi_added": [
       {
-       "strike": 1000.0,
-       "oi": 2863575,
-       "oi_change": 169125,
-       "ltp": 2.85
+       "strike": 960.0,
+       "oi": 2745600,
+       "oi_change": 538725,
+       "ltp": 4.1
       },
       {
        "strike": 920.0,
-       "oi": 380325,
-       "oi_change": 103125,
-       "ltp": 25.1
+       "oi": 713625,
+       "oi_change": 333300,
+       "ltp": 14.35
       },
       {
        "strike": 940.0,
-       "oi": 1269675,
-       "oi_change": 72600,
-       "ltp": 15.8
+       "oi": 1551825,
+       "oi_change": 282150,
+       "ltp": 8.0
       }
      ],
      "top_put_oi_added": [
       {
+       "strike": 960.0,
+       "oi": 1366200,
+       "oi_change": 708675,
+       "ltp": 58.25
+      },
+      {
        "strike": 920.0,
-       "oi": 670725,
-       "oi_change": 31350,
-       "ltp": 18.9
+       "oi": 1221000,
+       "oi_change": 550275,
+       "ltp": 28.6
       },
       {
-       "strike": 860.0,
-       "oi": 245850,
-       "oi_change": 25575,
-       "ltp": 3.35
-      },
-      {
-       "strike": 940.0,
-       "oi": 1462725,
-       "oi_change": 9075,
-       "ltp": 29.3
+       "strike": 880.0,
+       "oi": 519750,
+       "oi_change": 270600,
+       "ltp": 10.4
       }
      ]
     }
@@ -420,39 +418,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 2804.52,
-    "sma50": 2920.84,
-    "sma200": 2593.71,
+    "sma20": 2785.49,
+    "sma50": 2912.33,
+    "sma200": 2595.54,
     "dma200_note": null,
-    "rsi14": 37.76,
-    "rsi14_prev": 39.76,
-    "macd": -80.91,
-    "macd_signal": -72.88,
-    "macd_hist": -8.03,
-    "macd_hist_prev": -9.36,
-    "supertrend": 2907.01,
+    "rsi14": 34.35,
+    "rsi14_prev": 37.76,
+    "macd": -85.55,
+    "macd_signal": -75.42,
+    "macd_hist": -10.13,
+    "macd_hist_prev": -8.03,
+    "supertrend": 2869.56,
     "supertrend_dir": "DOWN",
-    "atr14": 77.05,
-    "vol_last": 854302,
-    "vol_avg20": 1551395,
-    "vol_ratio": 0.55,
+    "atr14": 81.09,
+    "vol_last": 931846,
+    "vol_avg20": 1512703,
+    "vol_ratio": 0.62,
     "pivots": {
-     "P": 2669.73,
-     "R1": 2689.47,
-     "S1": 2637.77,
-     "R2": 2721.43,
-     "S2": 2618.03,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 2615.7,
+     "R1": 2663.8,
+     "S1": 2546.4,
+     "R2": 2733.1,
+     "S2": 2498.3,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 2716.4,
-      "h": 2717.5,
-      "l": 2670.0,
-      "c": 2700.0,
-      "v": 835205
-     },
      {
       "date": "2026-10-16",
       "o": 2714.0,
@@ -468,15 +458,19 @@
       "l": 2650.0,
       "c": 2657.5,
       "v": 854302
+     },
+     {
+      "date": "2026-10-21",
+      "o": 2674.0,
+      "h": 2685.0,
+      "l": 2567.6,
+      "c": 2594.5,
+      "v": 931846
      }
     ],
-    "high3": 2717.5,
-    "low3": 2650.0,
+    "high3": 2715.6,
+    "low3": 2567.6,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": []
-     },
      {
       "date": "2026-10-16",
       "flags": [
@@ -486,137 +480,141 @@
      {
       "date": "2026-10-19",
       "flags": []
+     },
+     {
+      "date": "2026-10-21",
+      "flags": []
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 2664.1,
-    "fut_prev_close": 2688.1,
-    "spot_underlying": 2657.5,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 2590.8,
+    "fut_prev_close": 2664.1,
+    "spot_underlying": 2594.5,
     "lot_size": 309,
-    "oi": 15514581,
-    "oi_change": -275937,
-    "oi_change_pct": -1.75,
-    "fut_volume": 2826,
-    "fut_price_change_pct": -0.89,
+    "oi": 13836711,
+    "oi_change": -1677870,
+    "oi_change_pct": -10.81,
+    "fut_volume": 9270,
+    "fut_price_change_pct": -2.75,
     "buildup": "LONG UNWINDING",
-    "premium_vs_spot": 6.6,
-    "premium_pct": 0.25,
+    "premium_vs_spot": -3.7,
+    "premium_pct": -0.14,
     "next_expiry": "2026-11-23",
-    "next_oi": 1987179,
-    "next_oi_change": 203940,
-    "rollover_pct": 11.35,
+    "next_oi": 3609120,
+    "next_oi_change": 1621941,
+    "rollover_pct": 20.69,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 9316968,
-     "put_oi_total": 5864820,
-     "pcr_oi": 0.63,
-     "max_pain": 2750.0,
+     "call_oi_total": 9082746,
+     "put_oi_total": 5443344,
+     "pcr_oi": 0.6,
+     "max_pain": 2700.0,
      "top_call_oi": [
       {
-       "strike": 3000.0,
-       "oi": 1398843,
-       "oi_change": -475242,
-       "ltp": 1.85
+       "strike": 2700.0,
+       "oi": 1334262,
+       "oi_change": 146157,
+       "ltp": 7.3
       },
       {
        "strike": 2900.0,
-       "oi": 1284822,
-       "oi_change": -223407,
-       "ltp": 3.5
+       "oi": 1211280,
+       "oi_change": -73542,
+       "ltp": 1.55
       },
       {
-       "strike": 2700.0,
-       "oi": 1188105,
-       "oi_change": 210120,
-       "ltp": 30.75
-      },
-      {
-       "strike": 2800.0,
-       "oi": 1179762,
-       "oi_change": -14832,
-       "ltp": 9.05
+       "strike": 3000.0,
+       "oi": 1132485,
+       "oi_change": -266358,
+       "ltp": 1.05
       },
       {
        "strike": 2600.0,
-       "oi": 736347,
-       "oi_change": -4635,
-       "ltp": 85.05
+       "oi": 1061415,
+       "oi_change": 325068,
+       "ltp": 31.75
+      },
+      {
+       "strike": 2800.0,
+       "oi": 998997,
+       "oi_change": -180765,
+       "ltp": 2.95
       }
      ],
      "top_put_oi": [
       {
        "strike": 2600.0,
-       "oi": 717498,
-       "oi_change": -14523,
-       "ltp": 21.15
+       "oi": 619854,
+       "oi_change": -97644,
+       "ltp": 39.1
       },
       {
        "strike": 2700.0,
-       "oi": 687216,
-       "oi_change": 15450,
-       "ltp": 66.7
+       "oi": 528390,
+       "oi_change": -158826,
+       "ltp": 113.85
       },
       {
        "strike": 2900.0,
-       "oi": 553728,
-       "oi_change": -14832,
-       "ltp": 238.25
+       "oi": 483276,
+       "oi_change": -70452,
+       "ltp": 309.35
       },
       {
        "strike": 2800.0,
-       "oi": 473388,
-       "oi_change": -22248,
-       "ltp": 144.8
+       "oi": 452067,
+       "oi_change": -21321,
+       "ltp": 210.1
       },
       {
-       "strike": 3000.0,
-       "oi": 357822,
-       "oi_change": -11124,
-       "ltp": 337.5
+       "strike": 2500.0,
+       "oi": 355968,
+       "oi_change": 1854,
+       "ltp": 9.95
       }
      ],
      "top_call_oi_added": [
       {
+       "strike": 2600.0,
+       "oi": 1061415,
+       "oi_change": 325068,
+       "ltp": 31.75
+      },
+      {
        "strike": 2700.0,
-       "oi": 1188105,
-       "oi_change": 210120,
-       "ltp": 30.75
+       "oi": 1334262,
+       "oi_change": 146157,
+       "ltp": 7.3
       },
       {
        "strike": 2650.0,
-       "oi": 432600,
-       "oi_change": 49749,
-       "ltp": 53.1
-      },
-      {
-       "strike": 2400.0,
-       "oi": 17613,
-       "oi_change": 618,
-       "ltp": 273.85
+       "oi": 469371,
+       "oi_change": 36771,
+       "ltp": 15.05
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 2550.0,
-       "oi": 307764,
-       "oi_change": 44187,
-       "ltp": 11.65
-      },
-      {
        "strike": 2200.0,
-       "oi": 76632,
-       "oi_change": 22866,
-       "ltp": 1.55
+       "oi": 106914,
+       "oi_change": 30282,
+       "ltp": 1.1
       },
       {
-       "strike": 2350.0,
-       "oi": 76941,
-       "oi_change": 16377,
-       "ltp": 2.0
+       "strike": 2550.0,
+       "oi": 333720,
+       "oi_change": 25956,
+       "ltp": 19.7
+      },
+      {
+       "strike": 2650.0,
+       "oi": 290769,
+       "oi_change": 11742,
+       "ltp": 70.95
       }
      ]
     }
@@ -626,39 +624,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 1287.39,
-    "sma50": 1299.11,
-    "sma200": 1212.16,
+    "sma20": 1285.14,
+    "sma50": 1296.83,
+    "sma200": 1213.36,
     "dma200_note": null,
-    "rsi14": 50.16,
-    "rsi14_prev": 51.27,
-    "macd": -1.53,
-    "macd_signal": -5.88,
-    "macd_hist": 4.36,
-    "macd_hist_prev": 5.02,
+    "rsi14": 44.54,
+    "rsi14_prev": 50.16,
+    "macd": -4.1,
+    "macd_signal": -5.53,
+    "macd_hist": 1.43,
+    "macd_hist_prev": 4.36,
     "supertrend": 1356.26,
     "supertrend_dir": "DOWN",
-    "atr14": 39.87,
-    "vol_last": 965167,
-    "vol_avg20": 2293098,
-    "vol_ratio": 0.42,
+    "atr14": 41.6,
+    "vol_last": 1713782,
+    "vol_avg20": 2211497,
+    "vol_ratio": 0.77,
     "pivots": {
-     "P": 1301.8,
-     "R1": 1312.6,
-     "S1": 1284.4,
-     "R2": 1330.0,
-     "S2": 1273.6,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 1268.43,
+     "R1": 1292.07,
+     "S1": 1234.87,
+     "R2": 1325.63,
+     "S2": 1211.23,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 1319.0,
-      "h": 1320.0,
-      "l": 1300.5,
-      "c": 1307.1,
-      "v": 962137
-     },
      {
       "date": "2026-10-16",
       "o": 1311.6,
@@ -674,17 +664,19 @@
       "l": 1291.0,
       "c": 1295.2,
       "v": 965167
+     },
+     {
+      "date": "2026-10-21",
+      "o": 1295.2,
+      "h": 1302.0,
+      "l": 1244.8,
+      "c": 1258.5,
+      "v": 1713782
      }
     ],
-    "high3": 1320.0,
-    "low3": 1291.0,
+    "high3": 1319.2,
+    "low3": 1244.8,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": [
-       "inside bar"
-      ]
-     },
      {
       "date": "2026-10-16",
       "flags": []
@@ -692,137 +684,141 @@
      {
       "date": "2026-10-19",
       "flags": []
+     },
+     {
+      "date": "2026-10-21",
+      "flags": []
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 1293.7,
-    "fut_prev_close": 1304.4,
-    "spot_underlying": 1295.21,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 1257.3,
+    "fut_prev_close": 1293.7,
+    "spot_underlying": 1258.49,
     "lot_size": 600,
-    "oi": 22472400,
-    "oi_change": 46800,
-    "oi_change_pct": 0.21,
-    "fut_volume": 1817,
-    "fut_price_change_pct": -0.82,
-    "buildup": "SHORT BUILDUP",
-    "premium_vs_spot": -1.51,
-    "premium_pct": -0.12,
+    "oi": 18318600,
+    "oi_change": -4153800,
+    "oi_change_pct": -18.48,
+    "fut_volume": 11517,
+    "fut_price_change_pct": -2.81,
+    "buildup": "LONG UNWINDING",
+    "premium_vs_spot": -1.19,
+    "premium_pct": -0.09,
     "next_expiry": "2026-11-23",
-    "next_oi": 666600,
-    "next_oi_change": 199200,
-    "rollover_pct": 2.88,
+    "next_oi": 5308800,
+    "next_oi_change": 4642200,
+    "rollover_pct": 22.47,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 5767800,
-     "put_oi_total": 5034000,
-     "pcr_oi": 0.87,
+     "call_oi_total": 7987200,
+     "put_oi_total": 5240400,
+     "pcr_oi": 0.66,
      "max_pain": 1300.0,
      "top_call_oi": [
       {
        "strike": 1300.0,
-       "oi": 966600,
-       "oi_change": 63600,
-       "ltp": 29.0
-      },
-      {
-       "strike": 1400.0,
-       "oi": 676800,
-       "oi_change": 59400,
-       "ltp": 4.65
-      },
-      {
-       "strike": 1360.0,
-       "oi": 606000,
-       "oi_change": 51600,
+       "oi": 1862400,
+       "oi_change": 895800,
        "ltp": 10.05
       },
       {
-       "strike": 1380.0,
-       "oi": 507000,
-       "oi_change": 8400,
-       "ltp": 6.8
+       "strike": 1400.0,
+       "oi": 817200,
+       "oi_change": 140400,
+       "ltp": 1.6
       },
       {
        "strike": 1320.0,
-       "oi": 454200,
-       "oi_change": 56400,
-       "ltp": 20.75
+       "oi": 729600,
+       "oi_change": 275400,
+       "ltp": 6.7
+      },
+      {
+       "strike": 1360.0,
+       "oi": 690000,
+       "oi_change": 84000,
+       "ltp": 3.05
+      },
+      {
+       "strike": 1280.0,
+       "oi": 626400,
+       "oi_change": 345000,
+       "ltp": 15.15
       }
      ],
      "top_put_oi": [
       {
        "strike": 1300.0,
-       "oi": 745200,
-       "oi_change": 42600,
-       "ltp": 34.95
-      },
-      {
-       "strike": 1260.0,
-       "oi": 594600,
-       "oi_change": -25200,
-       "ltp": 18.7
+       "oi": 667200,
+       "oi_change": -78000,
+       "ltp": 51.95
       },
       {
        "strike": 1200.0,
-       "oi": 554400,
-       "oi_change": -48000,
-       "ltp": 7.15
+       "oi": 643800,
+       "oi_change": 89400,
+       "ltp": 6.95
       },
       {
-       "strike": 1400.0,
-       "oi": 422400,
-       "oi_change": -1200,
-       "ltp": 110.05
+       "strike": 1260.0,
+       "oi": 638400,
+       "oi_change": 43800,
+       "ltp": 26.5
       },
       {
        "strike": 1240.0,
-       "oi": 378000,
-       "oi_change": 12000,
-       "ltp": 13.35
+       "oi": 475200,
+       "oi_change": 97200,
+       "ltp": 17.55
+      },
+      {
+       "strike": 1400.0,
+       "oi": 416400,
+       "oi_change": -6000,
+       "ltp": 131.7
       }
      ],
      "top_call_oi_added": [
       {
-       "strike": 1340.0,
-       "oi": 411600,
-       "oi_change": 133800,
-       "ltp": 14.6
-      },
-      {
        "strike": 1300.0,
-       "oi": 966600,
-       "oi_change": 63600,
-       "ltp": 29.0
+       "oi": 1862400,
+       "oi_change": 895800,
+       "ltp": 10.05
       },
       {
-       "strike": 1400.0,
-       "oi": 676800,
-       "oi_change": 59400,
-       "ltp": 4.65
+       "strike": 1280.0,
+       "oi": 626400,
+       "oi_change": 345000,
+       "ltp": 15.15
+      },
+      {
+       "strike": 1320.0,
+       "oi": 729600,
+       "oi_change": 275400,
+       "ltp": 6.7
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 1300.0,
-       "oi": 745200,
-       "oi_change": 42600,
-       "ltp": 34.95
+       "strike": 1240.0,
+       "oi": 475200,
+       "oi_change": 97200,
+       "ltp": 17.55
       },
       {
-       "strike": 1160.0,
-       "oi": 224400,
-       "oi_change": 17400,
-       "ltp": 4.0
+       "strike": 1200.0,
+       "oi": 643800,
+       "oi_change": 89400,
+       "ltp": 6.95
       },
       {
        "strike": 1220.0,
-       "oi": 215400,
-       "oi_change": 13200,
-       "ltp": 9.85
+       "oi": 263400,
+       "oi_change": 48000,
+       "ltp": 11.0
       }
      ]
     }
@@ -832,39 +828,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 197.2,
-    "sma50": 203.04,
-    "sma200": 189.96,
+    "sma20": 196.23,
+    "sma50": 202.6,
+    "sma200": 190.18,
     "dma200_note": null,
-    "rsi14": 45.18,
-    "rsi14_prev": 46.92,
-    "macd": -3.39,
-    "macd_signal": -3.61,
-    "macd_hist": 0.22,
-    "macd_hist_prev": 0.07,
+    "rsi14": 39.0,
+    "rsi14_prev": 45.18,
+    "macd": -3.75,
+    "macd_signal": -3.64,
+    "macd_hist": -0.11,
+    "macd_hist_prev": 0.22,
     "supertrend": 204.46,
     "supertrend_dir": "DOWN",
-    "atr14": 6.46,
-    "vol_last": 8537257,
-    "vol_avg20": 21562714,
-    "vol_ratio": 0.4,
+    "atr14": 6.7,
+    "vol_last": 18840459,
+    "vol_avg20": 21080283,
+    "vol_ratio": 0.89,
     "pivots": {
-     "P": 194.62,
-     "R1": 196.62,
-     "S1": 192.09,
-     "R2": 199.15,
-     "S2": 190.09,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 189.25,
+     "R1": 192.61,
+     "S1": 183.74,
+     "R2": 198.12,
+     "S2": 180.38,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 195.15,
-      "h": 197.65,
-      "l": 192.8,
-      "c": 196.5,
-      "v": 14557604
-     },
      {
       "date": "2026-10-16",
       "o": 196.5,
@@ -880,15 +868,19 @@
       "l": 192.63,
       "c": 194.08,
       "v": 8537257
+     },
+     {
+      "date": "2026-10-21",
+      "o": 194.08,
+      "h": 194.77,
+      "l": 185.9,
+      "c": 187.09,
+      "v": 18840459
      }
     ],
     "high3": 198.23,
-    "low3": 192.63,
+    "low3": 185.9,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": []
-     },
      {
       "date": "2026-10-16",
       "flags": []
@@ -896,137 +888,141 @@
      {
       "date": "2026-10-19",
       "flags": []
+     },
+     {
+      "date": "2026-10-21",
+      "flags": []
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 193.84,
-    "fut_prev_close": 196.18,
-    "spot_underlying": 194.07,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 186.8,
+    "fut_prev_close": 193.84,
+    "spot_underlying": 187.09,
     "lot_size": 3550,
-    "oi": 224381300,
-    "oi_change": -2378500,
-    "oi_change_pct": -1.05,
-    "fut_volume": 2391,
-    "fut_price_change_pct": -1.19,
+    "oi": 202772450,
+    "oi_change": -21608850,
+    "oi_change_pct": -9.63,
+    "fut_volume": 9631,
+    "fut_price_change_pct": -3.63,
     "buildup": "LONG UNWINDING",
-    "premium_vs_spot": -0.23,
-    "premium_pct": -0.12,
+    "premium_vs_spot": -0.29,
+    "premium_pct": -0.16,
     "next_expiry": "2026-11-23",
-    "next_oi": 11654650,
-    "next_oi_change": 1160850,
-    "rollover_pct": 4.94,
+    "next_oi": 35318950,
+    "next_oi_change": 23664300,
+    "rollover_pct": 14.83,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 59473150,
-     "put_oi_total": 33593650,
-     "pcr_oi": 0.56,
-     "max_pain": 197.5,
+     "call_oi_total": 55397750,
+     "put_oi_total": 31939350,
+     "pcr_oi": 0.58,
+     "max_pain": 195.0,
      "top_call_oi": [
       {
        "strike": 200.0,
-       "oi": 12584750,
-       "oi_change": 227200,
-       "ltp": 2.01
-      },
-      {
-       "strike": 210.0,
-       "oi": 8420600,
-       "oi_change": 216550,
+       "oi": 9645350,
+       "oi_change": -2939400,
        "ltp": 0.64
       },
       {
+       "strike": 210.0,
+       "oi": 8125950,
+       "oi_change": -294650,
+       "ltp": 0.26
+      },
+      {
        "strike": 205.0,
-       "oi": 7117750,
-       "oi_change": -81650,
-       "ltp": 1.12
+       "oi": 7114200,
+       "oi_change": -3550,
+       "ltp": 0.4
       },
       {
        "strike": 220.0,
-       "oi": 5136850,
-       "oi_change": -67450,
-       "ltp": 0.25
+       "oi": 4831550,
+       "oi_change": -305300,
+       "ltp": 0.13
       },
       {
        "strike": 190.0,
-       "oi": 3617450,
-       "oi_change": 85200,
-       "ltp": 6.36
+       "oi": 4196100,
+       "oi_change": 578650,
+       "ltp": 2.4
       }
      ],
      "top_put_oi": [
       {
        "strike": 200.0,
-       "oi": 4728600,
-       "oi_change": -106500,
-       "ltp": 8.23
+       "oi": 4607900,
+       "oi_change": -120700,
+       "ltp": 13.68
       },
       {
        "strike": 190.0,
-       "oi": 3968900,
-       "oi_change": -347900,
-       "ltp": 2.62
+       "oi": 3599700,
+       "oi_change": -369200,
+       "ltp": 5.57
       },
       {
        "strike": 195.0,
-       "oi": 3674250,
-       "oi_change": 81650,
-       "ltp": 4.91
+       "oi": 3365400,
+       "oi_change": -308850,
+       "ltp": 9.32
       },
       {
-       "strike": 197.5,
-       "oi": 2186800,
-       "oi_change": 24850,
-       "ltp": 6.38
+       "strike": 185.0,
+       "oi": 2403350,
+       "oi_change": 340800,
+       "ltp": 2.86
       },
       {
        "strike": 205.0,
-       "oi": 2133550,
-       "oi_change": -127800,
-       "ltp": 13.06
+       "oi": 2048350,
+       "oi_change": -85200,
+       "ltp": 18.35
       }
      ],
      "top_call_oi_added": [
       {
-       "strike": 200.0,
-       "oi": 12584750,
-       "oi_change": 227200,
-       "ltp": 2.01
+       "strike": 190.0,
+       "oi": 4196100,
+       "oi_change": 578650,
+       "ltp": 2.4
       },
       {
-       "strike": 210.0,
-       "oi": 8420600,
-       "oi_change": 216550,
-       "ltp": 0.64
+       "strike": 195.0,
+       "oi": 4118000,
+       "oi_change": 560900,
+       "ltp": 1.17
       },
       {
        "strike": 192.5,
-       "oi": 1246050,
-       "oi_change": 195250,
-       "ltp": 4.94
+       "oi": 1540700,
+       "oi_change": 294650,
+       "ltp": 1.67
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 195.0,
-       "oi": 3674250,
-       "oi_change": 81650,
-       "ltp": 4.91
+       "strike": 185.0,
+       "oi": 2403350,
+       "oi_change": 340800,
+       "ltp": 2.86
       },
       {
-       "strike": 187.5,
-       "oi": 1576200,
-       "oi_change": 42600,
-       "ltp": 1.86
+       "strike": 182.5,
+       "oi": 1022400,
+       "oi_change": 106500,
+       "ltp": 1.94
       },
       {
-       "strike": 197.5,
-       "oi": 2186800,
-       "oi_change": 24850,
-       "ltp": 6.38
+       "strike": 180.0,
+       "oi": 1988000,
+       "oi_change": 60350,
+       "ltp": 1.29
       }
      ]
     }
@@ -1036,39 +1032,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 490.58,
-    "sma50": 519.93,
-    "sma200": 523.44,
+    "sma20": 488.48,
+    "sma50": 518.14,
+    "sma200": 523.42,
     "dma200_note": null,
-    "rsi14": 43.38,
-    "rsi14_prev": 43.54,
-    "macd": -12.59,
-    "macd_signal": -13.94,
-    "macd_hist": 1.35,
-    "macd_hist_prev": 0.73,
+    "rsi14": 40.59,
+    "rsi14_prev": 43.38,
+    "macd": -12.27,
+    "macd_signal": -13.6,
+    "macd_hist": 1.33,
+    "macd_hist_prev": 1.35,
     "supertrend": 500.96,
     "supertrend_dir": "DOWN",
-    "atr14": 13.41,
-    "vol_last": 1408997,
-    "vol_avg20": 2210159,
-    "vol_ratio": 0.64,
+    "atr14": 13.74,
+    "vol_last": 891417,
+    "vol_avg20": 2110727,
+    "vol_ratio": 0.42,
     "pivots": {
-     "P": 482.15,
-     "R1": 485.55,
-     "S1": 478.8,
-     "R2": 488.9,
-     "S2": 475.4,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 476.08,
+     "R1": 483.87,
+     "S1": 467.17,
+     "R2": 492.78,
+     "S2": 459.38,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 490.0,
-      "h": 490.0,
-      "l": 476.2,
-      "c": 478.95,
-      "v": 2548651
-     },
      {
       "date": "2026-10-16",
       "o": 481.3,
@@ -1084,17 +1072,19 @@
       "l": 478.75,
       "c": 482.2,
       "v": 1408997
+     },
+     {
+      "date": "2026-10-21",
+      "o": 482.2,
+      "h": 485.0,
+      "l": 468.3,
+      "c": 474.95,
+      "v": 891417
      }
     ],
-    "high3": 490.0,
-    "low3": 475.15,
+    "high3": 488.65,
+    "low3": 468.3,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": [
-       "inside bar"
-      ]
-     },
      {
       "date": "2026-10-16",
       "flags": [
@@ -1106,65 +1096,71 @@
       "flags": [
        "inside bar"
       ]
+     },
+     {
+      "date": "2026-10-21",
+      "flags": [
+       "bearish engulfing"
+      ]
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 482.2,
-    "fut_prev_close": 483.25,
-    "spot_underlying": 482.2,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 472.6,
+    "fut_prev_close": 482.2,
+    "spot_underlying": 474.91,
     "lot_size": 1075,
-    "oi": 30417125,
-    "oi_change": 735300,
-    "oi_change_pct": 2.48,
-    "fut_volume": 2261,
-    "fut_price_change_pct": -0.22,
+    "oi": 30793375,
+    "oi_change": 376250,
+    "oi_change_pct": 1.24,
+    "fut_volume": 2528,
+    "fut_price_change_pct": -1.99,
     "buildup": "SHORT BUILDUP",
-    "premium_vs_spot": 0.0,
-    "premium_pct": 0.0,
+    "premium_vs_spot": -2.31,
+    "premium_pct": -0.49,
     "next_expiry": "2026-11-23",
-    "next_oi": 965350,
-    "next_oi_change": 293475,
-    "rollover_pct": 3.08,
+    "next_oi": 1436200,
+    "next_oi_change": 470850,
+    "rollover_pct": 4.46,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 5936150,
-     "put_oi_total": 4517150,
-     "pcr_oi": 0.76,
+     "call_oi_total": 5535175,
+     "put_oi_total": 4234425,
+     "pcr_oi": 0.77,
      "max_pain": 500.0,
      "top_call_oi": [
       {
        "strike": 500.0,
-       "oi": 1272800,
-       "oi_change": 12900,
-       "ltp": 2.8
+       "oi": 1258825,
+       "oi_change": -13975,
+       "ltp": 0.8
       },
       {
        "strike": 510.0,
-       "oi": 890100,
-       "oi_change": 104275,
-       "ltp": 1.4
+       "oi": 822375,
+       "oi_change": -67725,
+       "ltp": 0.35
+      },
+      {
+       "strike": 600.0,
+       "oi": 467625,
+       "oi_change": -2150,
+       "ltp": 0.05
       },
       {
        "strike": 520.0,
-       "oi": 603075,
-       "oi_change": -48375,
-       "ltp": 0.65
-      },
-      {
-       "strike": 480.0,
-       "oi": 567600,
-       "oi_change": 56975,
-       "ltp": 10.05
+       "oi": 459025,
+       "oi_change": -144050,
+       "ltp": 0.2
       },
       {
        "strike": 490.0,
-       "oi": 488050,
-       "oi_change": 45150,
-       "ltp": 5.4
+       "oi": 455800,
+       "oi_change": -32250,
+       "ltp": 1.9
       }
      ],
      "top_put_oi": [
@@ -1175,68 +1171,68 @@
        "ltp": 112.75
       },
       {
-       "strike": 480.0,
-       "oi": 583725,
-       "oi_change": -25800,
-       "ltp": 7.9
-      },
-      {
        "strike": 460.0,
-       "oi": 541800,
-       "oi_change": -32250,
-       "ltp": 2.05
-      },
-      {
-       "strike": 500.0,
-       "oi": 492350,
-       "oi_change": 0,
-       "ltp": 21.1
+       "oi": 561150,
+       "oi_change": 19350,
+       "ltp": 2.95
       },
       {
        "strike": 470.0,
-       "oi": 454725,
-       "oi_change": -70950,
-       "ltp": 4.15
+       "oi": 477300,
+       "oi_change": 22575,
+       "ltp": 6.1
+      },
+      {
+       "strike": 500.0,
+       "oi": 471925,
+       "oi_change": -20425,
+       "ltp": 28.5
+      },
+      {
+       "strike": 480.0,
+       "oi": 411725,
+       "oi_change": -172000,
+       "ltp": 11.65
       }
      ],
      "top_call_oi_added": [
       {
-       "strike": 510.0,
-       "oi": 890100,
-       "oi_change": 104275,
-       "ltp": 1.4
+       "strike": 470.0,
+       "oi": 439675,
+       "oi_change": 147275,
+       "ltp": 8.65
       },
       {
-       "strike": 480.0,
-       "oi": 567600,
-       "oi_change": 56975,
-       "ltp": 10.05
+       "strike": 460.0,
+       "oi": 262300,
+       "oi_change": 2150,
+       "ltp": 15.75
       },
       {
-       "strike": 490.0,
-       "oi": 488050,
-       "oi_change": 45150,
-       "ltp": 5.4
+       "strike": 400.0,
+       "oi": 1075,
+       "oi_change": 0,
+       "ltp": 89.55
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 440.0,
-       "oi": 193500,
-       "oi_change": 10750,
-       "ltp": 0.65
+       "strike": 470.0,
+       "oi": 477300,
+       "oi_change": 22575,
+       "ltp": 6.1
       },
       {
-       "strike": 450.0,
-       "oi": 232200,
-       "oi_change": 6450,
-       "ltp": 1.0
+       "strike": 460.0,
+       "oi": 561150,
+       "oi_change": 19350,
+       "ltp": 2.95
       },
       {
-       "strike": 420.0,
-       "oi": 215000,
-       "oi_change": 0,
-       "ltp": 0.25
+       "strike": 430.0,
+       "oi": 29025,
+       "oi_change": 5375,
+       "ltp": 0.35
       }
      ]
     }
@@ -1246,39 +1242,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 1200.2,
-    "sma50": 1258.05,
-    "sma200": 1344.54,
+    "sma20": 1198.28,
+    "sma50": 1255.53,
+    "sma200": 1342.79,
     "dma200_note": null,
-    "rsi14": 46.58,
-    "rsi14_prev": 48.75,
-    "macd": -17.86,
-    "macd_signal": -23.27,
-    "macd_hist": 5.41,
-    "macd_hist_prev": 4.72,
+    "rsi14": 48.46,
+    "rsi14_prev": 46.58,
+    "macd": -15.5,
+    "macd_signal": -21.72,
+    "macd_hist": 6.22,
+    "macd_hist_prev": 5.41,
     "supertrend": 1228.86,
     "supertrend_dir": "DOWN",
-    "atr14": 25.16,
-    "vol_last": 15572554,
-    "vol_avg20": 14315407,
-    "vol_ratio": 1.09,
+    "atr14": 26.15,
+    "vol_last": 17607823,
+    "vol_avg20": 14337898,
+    "vol_ratio": 1.23,
     "pivots": {
-     "P": 1210.4,
-     "R1": 1219.8,
-     "S1": 1192.6,
-     "R2": 1237.6,
-     "S2": 1183.2,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 1214.2,
+     "R1": 1229.1,
+     "S1": 1194.1,
+     "R2": 1249.2,
+     "S2": 1179.2,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 1185.2,
-      "h": 1218.8,
-      "l": 1177.2,
-      "c": 1215.0,
-      "v": 23456219
-     },
      {
       "date": "2026-10-16",
       "o": 1215.0,
@@ -1294,15 +1282,19 @@
       "l": 1201.0,
       "c": 1202.0,
       "v": 15572554
+     },
+     {
+      "date": "2026-10-21",
+      "o": 1212.0,
+      "h": 1234.3,
+      "l": 1199.3,
+      "c": 1209.0,
+      "v": 17607823
      }
     ],
-    "high3": 1228.2,
-    "low3": 1177.2,
+    "high3": 1234.3,
+    "low3": 1193.0,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": []
-     },
      {
       "date": "2026-10-16",
       "flags": [
@@ -1313,137 +1305,144 @@
      {
       "date": "2026-10-19",
       "flags": []
+     },
+     {
+      "date": "2026-10-21",
+      "flags": [
+       "doji",
+       "shooting-star-like"
+      ]
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 1207.4,
-    "fut_prev_close": 1210.6,
-    "spot_underlying": 1202.0,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 1207.0,
+    "fut_prev_close": 1207.4,
+    "spot_underlying": 1208.99,
     "lot_size": 500,
-    "oi": 137883500,
-    "oi_change": -2018000,
-    "oi_change_pct": -1.44,
-    "fut_volume": 23672,
-    "fut_price_change_pct": -0.26,
+    "oi": 117205000,
+    "oi_change": -20678500,
+    "oi_change_pct": -15.0,
+    "fut_volume": 66737,
+    "fut_price_change_pct": -0.03,
     "buildup": "LONG UNWINDING",
-    "premium_vs_spot": 5.4,
-    "premium_pct": 0.45,
+    "premium_vs_spot": -1.99,
+    "premium_pct": -0.16,
     "next_expiry": "2026-11-23",
-    "next_oi": 29025500,
-    "next_oi_change": 2223500,
-    "rollover_pct": 17.39,
+    "next_oi": 44169500,
+    "next_oi_change": 15144000,
+    "rollover_pct": 27.37,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 91633500,
-     "put_oi_total": 55990000,
-     "pcr_oi": 0.61,
+     "call_oi_total": 90517000,
+     "put_oi_total": 52922500,
+     "pcr_oi": 0.58,
      "max_pain": 1210.0,
      "top_call_oi": [
       {
        "strike": 1250.0,
-       "oi": 11891000,
-       "oi_change": -1836000,
-       "ltp": 6.7
+       "oi": 12176500,
+       "oi_change": 285500,
+       "ltp": 4.8
       },
       {
        "strike": 1300.0,
-       "oi": 11292000,
-       "oi_change": -24500,
-       "ltp": 2.3
+       "oi": 11558000,
+       "oi_change": 266000,
+       "ltp": 1.65
       },
       {
        "strike": 1200.0,
-       "oi": 9923000,
-       "oi_change": -251500,
-       "ltp": 21.95
+       "oi": 9107500,
+       "oi_change": -815500,
+       "ltp": 18.9
       },
       {
        "strike": 1220.0,
-       "oi": 6780500,
-       "oi_change": 628500,
-       "ltp": 13.75
+       "oi": 6583500,
+       "oi_change": -197000,
+       "ltp": 10.95
       },
       {
        "strike": 1240.0,
-       "oi": 5057000,
-       "oi_change": -9000,
-       "ltp": 8.5
+       "oi": 6042000,
+       "oi_change": 985000,
+       "ltp": 6.3
       }
      ],
      "top_put_oi": [
       {
        "strike": 1160.0,
-       "oi": 7302000,
-       "oi_change": -258000,
-       "ltp": 2.75
+       "oi": 7175500,
+       "oi_change": -126500,
+       "ltp": 1.9
       },
       {
        "strike": 1200.0,
-       "oi": 5158000,
-       "oi_change": 74500,
-       "ltp": 14.35
+       "oi": 5145000,
+       "oi_change": -13000,
+       "ltp": 12.65
       },
       {
        "strike": 1150.0,
-       "oi": 4158000,
-       "oi_change": -135000,
-       "ltp": 1.95
+       "oi": 4327000,
+       "oi_change": 169000,
+       "ltp": 1.35
       },
       {
        "strike": 1300.0,
-       "oi": 3007500,
-       "oi_change": -74000,
-       "ltp": 94.6
+       "oi": 2791000,
+       "oi_change": -216500,
+       "ltp": 94.7
       },
       {
-       "strike": 1250.0,
-       "oi": 2907500,
-       "oi_change": -178000,
-       "ltp": 49.15
+       "strike": 1190.0,
+       "oi": 2786000,
+       "oi_change": 383000,
+       "ltp": 8.4
       }
      ],
      "top_call_oi_added": [
       {
-       "strike": 1270.0,
-       "oi": 2875500,
-       "oi_change": 677500,
-       "ltp": 4.25
-      },
-      {
-       "strike": 1220.0,
-       "oi": 6780500,
-       "oi_change": 628500,
-       "ltp": 13.75
-      },
-      {
        "strike": 1280.0,
-       "oi": 4376000,
-       "oi_change": 580000,
-       "ltp": 3.4
+       "oi": 5520000,
+       "oi_change": 1144000,
+       "ltp": 2.45
+      },
+      {
+       "strike": 1240.0,
+       "oi": 6042000,
+       "oi_change": 985000,
+       "ltp": 6.3
+      },
+      {
+       "strike": 1230.0,
+       "oi": 5215500,
+       "oi_change": 441500,
+       "ltp": 8.2
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 1220.0,
-       "oi": 2580500,
-       "oi_change": 228000,
-       "ltp": 26.0
+       "strike": 1190.0,
+       "oi": 2786000,
+       "oi_change": 383000,
+       "ltp": 8.4
       },
       {
-       "strike": 1060.0,
-       "oi": 946500,
-       "oi_change": 109500,
-       "ltp": 0.2
+       "strike": 1150.0,
+       "oi": 4327000,
+       "oi_change": 169000,
+       "ltp": 1.35
       },
       {
-       "strike": 1200.0,
-       "oi": 5158000,
-       "oi_change": 74500,
-       "ltp": 14.35
+       "strike": 1390.0,
+       "oi": 7000,
+       "oi_change": 0,
+       "ltp": 171.4
       }
      ]
     }
@@ -1453,39 +1452,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 1113.97,
-    "sma50": 1216.92,
-    "sma200": 1301.94,
+    "sma20": 1108.72,
+    "sma50": 1212.44,
+    "sma200": 1299.9,
     "dma200_note": null,
-    "rsi14": 38.93,
-    "rsi14_prev": 43.56,
-    "macd": -28.53,
-    "macd_signal": -35.99,
-    "macd_hist": 7.46,
-    "macd_hist_prev": 9.16,
+    "rsi14": 36.14,
+    "rsi14_prev": 38.93,
+    "macd": -29.52,
+    "macd_signal": -34.69,
+    "macd_hist": 5.18,
+    "macd_hist_prev": 7.46,
     "supertrend": 1166.26,
     "supertrend_dir": "DOWN",
-    "atr14": 30.9,
-    "vol_last": 366812,
-    "vol_avg20": 883027,
-    "vol_ratio": 0.42,
+    "atr14": 31.22,
+    "vol_last": 732342,
+    "vol_avg20": 864288,
+    "vol_ratio": 0.85,
     "pivots": {
-     "P": 1095.9,
-     "R1": 1106.8,
-     "S1": 1077.1,
-     "R2": 1125.6,
-     "S2": 1066.2,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 1072.7,
+     "R1": 1088.4,
+     "S1": 1054.3,
+     "R2": 1106.8,
+     "S2": 1038.6,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 1121.0,
-      "h": 1138.4,
-      "l": 1115.7,
-      "c": 1126.3,
-      "v": 733626
-     },
      {
       "date": "2026-10-16",
       "o": 1130.0,
@@ -1501,17 +1492,19 @@
       "l": 1085.0,
       "c": 1088.0,
       "v": 366812
+     },
+     {
+      "date": "2026-10-21",
+      "o": 1082.0,
+      "h": 1091.1,
+      "l": 1057.0,
+      "c": 1070.0,
+      "v": 732342
      }
     ],
-    "high3": 1138.4,
-    "low3": 1085.0,
+    "high3": 1135.0,
+    "low3": 1057.0,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": [
-       "shooting-star-like"
-      ]
-     },
      {
       "date": "2026-10-16",
       "flags": [
@@ -1523,137 +1516,143 @@
       "flags": [
        "gap down"
       ]
+     },
+     {
+      "date": "2026-10-21",
+      "flags": [
+       "gap down"
+      ]
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 1089.8,
-    "fut_prev_close": 1117.6,
-    "spot_underlying": 1088.0,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 1069.1,
+    "fut_prev_close": 1089.8,
+    "spot_underlying": 1070.0,
     "lot_size": 425,
-    "oi": 6251750,
-    "oi_change": -83300,
-    "oi_change_pct": -1.31,
-    "fut_volume": 1862,
-    "fut_price_change_pct": -2.49,
+    "oi": 6045200,
+    "oi_change": -206550,
+    "oi_change_pct": -3.3,
+    "fut_volume": 2705,
+    "fut_price_change_pct": -1.9,
     "buildup": "LONG UNWINDING",
-    "premium_vs_spot": 1.8,
-    "premium_pct": 0.17,
+    "premium_vs_spot": -0.9,
+    "premium_pct": -0.08,
     "next_expiry": "2026-11-23",
-    "next_oi": 1840675,
-    "next_oi_change": 365500,
-    "rollover_pct": 22.75,
+    "next_oi": 2180250,
+    "next_oi_change": 339575,
+    "rollover_pct": 26.51,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 4166275,
-     "put_oi_total": 3087625,
-     "pcr_oi": 0.74,
+     "call_oi_total": 4174350,
+     "put_oi_total": 2886175,
+     "pcr_oi": 0.69,
      "max_pain": 1120.0,
      "top_call_oi": [
       {
        "strike": 1200.0,
-       "oi": 826625,
-       "oi_change": -59075,
-       "ltp": 1.35
+       "oi": 773075,
+       "oi_change": -53550,
+       "ltp": 0.65
       },
       {
        "strike": 1100.0,
-       "oi": 654925,
-       "oi_change": 110500,
-       "ltp": 15.2
+       "oi": 697850,
+       "oi_change": 42925,
+       "ltp": 5.6
       },
       {
        "strike": 1120.0,
-       "oi": 507450,
-       "oi_change": 83300,
-       "ltp": 8.7
-      },
-      {
-       "strike": 1160.0,
-       "oi": 408850,
-       "oi_change": 46325,
+       "oi": 434350,
+       "oi_change": -73100,
        "ltp": 2.9
       },
       {
+       "strike": 1160.0,
+       "oi": 350625,
+       "oi_change": -58225,
+       "ltp": 1.1
+      },
+      {
        "strike": 1140.0,
-       "oi": 374000,
-       "oi_change": -42925,
-       "ltp": 5.0
+       "oi": 302600,
+       "oi_change": -71400,
+       "ltp": 1.65
       }
      ],
      "top_put_oi": [
       {
        "strike": 1100.0,
-       "oi": 496400,
-       "oi_change": -34425,
-       "ltp": 24.85
+       "oi": 379525,
+       "oi_change": -116875,
+       "ltp": 36.1
       },
       {
        "strike": 1060.0,
-       "oi": 378675,
-       "oi_change": -11900,
-       "ltp": 8.5
+       "oi": 373575,
+       "oi_change": -5100,
+       "ltp": 11.3
       },
       {
        "strike": 1120.0,
-       "oi": 333625,
-       "oi_change": -2125,
-       "ltp": 40.25
+       "oi": 319175,
+       "oi_change": -14450,
+       "ltp": 50.5
       },
       {
        "strike": 1160.0,
-       "oi": 244375,
+       "oi": 241400,
        "oi_change": -2975,
-       "ltp": 70.75
+       "ltp": 98.0
       },
       {
        "strike": 1140.0,
-       "oi": 190825,
+       "oi": 174675,
        "oi_change": -16150,
-       "ltp": 55.15
+       "ltp": 71.9
       }
      ],
      "top_call_oi_added": [
       {
-       "strike": 1100.0,
-       "oi": 654925,
-       "oi_change": 110500,
-       "ltp": 15.2
+       "strike": 1080.0,
+       "oi": 300475,
+       "oi_change": 161075,
+       "ltp": 10.6
       },
       {
-       "strike": 1120.0,
-       "oi": 507450,
-       "oi_change": 83300,
-       "ltp": 8.7
+       "strike": 1060.0,
+       "oi": 198900,
+       "oi_change": 152150,
+       "ltp": 20.15
       },
       {
-       "strike": 1160.0,
-       "oi": 408850,
-       "oi_change": 46325,
-       "ltp": 2.9
+       "strike": 1240.0,
+       "oi": 159375,
+       "oi_change": 65450,
+       "ltp": 0.5
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 1040.0,
-       "oi": 131325,
-       "oi_change": 17000,
-       "ltp": 4.95
-      },
-      {
        "strike": 1020.0,
-       "oi": 160225,
-       "oi_change": 7650,
+       "oi": 166175,
+       "oi_change": 5950,
        "ltp": 2.75
       },
       {
-       "strike": 1320.0,
-       "oi": 16150,
+       "strike": 1000.0,
+       "oi": 108375,
+       "oi_change": 2975,
+       "ltp": 1.45
+      },
+      {
+       "strike": 980.0,
+       "oi": 47175,
        "oi_change": 2550,
-       "ltp": 230.0
+       "ltp": 1.0
       }
      ]
     }
@@ -1663,39 +1662,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 19740.6,
-    "sma50": 20023.82,
-    "sma200": 16639.38,
+    "sma20": 19740.3,
+    "sma50": 20036.0,
+    "sma200": 16673.49,
     "dma200_note": null,
-    "rsi14": 48.79,
-    "rsi14_prev": 51.16,
-    "macd": 13.09,
-    "macd_signal": -14.58,
-    "macd_hist": 27.67,
-    "macd_hist_prev": 47.5,
-    "supertrend": 21155.09,
+    "rsi14": 43.14,
+    "rsi14_prev": 48.79,
+    "macd": -40.57,
+    "macd_signal": -19.78,
+    "macd_hist": -20.8,
+    "macd_hist_prev": 27.67,
+    "supertrend": 21122.92,
     "supertrend_dir": "DOWN",
-    "atr14": 534.64,
-    "vol_last": 91543,
-    "vol_avg20": 175536,
-    "vol_ratio": 0.52,
+    "atr14": 564.97,
+    "vol_last": 152199,
+    "vol_avg20": 169970,
+    "vol_ratio": 0.9,
     "pivots": {
-     "P": 19863.0,
-     "R1": 20026.0,
-     "S1": 19640.0,
-     "R2": 20249.0,
-     "S2": 19477.0,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 19371.67,
+     "R1": 19734.33,
+     "S1": 18896.33,
+     "R2": 20209.67,
+     "S2": 18533.67,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 20100.0,
-      "h": 20265.0,
-      "l": 19866.0,
-      "c": 19866.0,
-      "v": 132606
-     },
      {
       "date": "2026-10-16",
       "o": 19959.0,
@@ -1711,15 +1702,19 @@
       "l": 19700.0,
       "c": 19803.0,
       "v": 91543
+     },
+     {
+      "date": "2026-10-21",
+      "o": 19803.0,
+      "h": 19847.0,
+      "l": 19009.0,
+      "c": 19259.0,
+      "v": 152199
      }
     ],
-    "high3": 20265.0,
-    "low3": 19700.0,
+    "high3": 20241.0,
+    "low3": 19009.0,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": []
-     },
      {
       "date": "2026-10-16",
       "flags": [
@@ -1732,137 +1727,141 @@
       "flags": [
        "bearish engulfing"
       ]
+     },
+     {
+      "date": "2026-10-21",
+      "flags": []
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 19763.0,
-    "fut_prev_close": 20040.0,
-    "spot_underlying": 19802.35,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 19132.0,
+    "fut_prev_close": 19763.0,
+    "spot_underlying": 19258.57,
     "lot_size": 50,
-    "oi": 838800,
-    "oi_change": -6550,
-    "oi_change_pct": -0.77,
-    "fut_volume": 872,
-    "fut_price_change_pct": -1.38,
+    "oi": 798200,
+    "oi_change": -40600,
+    "oi_change_pct": -4.84,
+    "fut_volume": 2648,
+    "fut_price_change_pct": -3.19,
     "buildup": "LONG UNWINDING",
-    "premium_vs_spot": -39.35,
-    "premium_pct": -0.2,
+    "premium_vs_spot": -126.57,
+    "premium_pct": -0.66,
     "next_expiry": "2026-11-23",
-    "next_oi": 102850,
-    "next_oi_change": 8150,
-    "rollover_pct": 10.92,
+    "next_oi": 144900,
+    "next_oi_change": 42050,
+    "rollover_pct": 15.36,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 636900,
-     "put_oi_total": 277700,
-     "pcr_oi": 0.44,
-     "max_pain": 19750.0,
+     "call_oi_total": 659850,
+     "put_oi_total": 268000,
+     "pcr_oi": 0.41,
+     "max_pain": 19500.0,
      "top_call_oi": [
       {
        "strike": 20000.0,
-       "oi": 105250,
-       "oi_change": 37700,
-       "ltp": 272.55
-      },
-      {
-       "strike": 22000.0,
-       "oi": 96900,
-       "oi_change": 10750,
-       "ltp": 15.9
+       "oi": 121200,
+       "oi_change": 15950,
+       "ltp": 81.4
       },
       {
        "strike": 21000.0,
-       "oi": 80750,
-       "oi_change": 3750,
-       "ltp": 59.3
+       "oi": 92000,
+       "oi_change": 11250,
+       "ltp": 21.8
       },
       {
-       "strike": 23000.0,
-       "oi": 70400,
-       "oi_change": -4950,
-       "ltp": 7.9
+       "strike": 22000.0,
+       "oi": 81300,
+       "oi_change": -15600,
+       "ltp": 7.85
       },
       {
        "strike": 20500.0,
-       "oi": 60350,
-       "oi_change": -7850,
-       "ltp": 127.0
+       "oi": 62200,
+       "oi_change": 1850,
+       "ltp": 38.3
+      },
+      {
+       "strike": 20250.0,
+       "oi": 50300,
+       "oi_change": 5800,
+       "ltp": 54.6
       }
      ],
      "top_put_oi": [
       {
        "strike": 20000.0,
-       "oi": 56400,
-       "oi_change": 3400,
-       "ltp": 506.3
+       "oi": 47150,
+       "oi_change": -9250,
+       "ltp": 950.95
       },
       {
        "strike": 19000.0,
-       "oi": 39800,
-       "oi_change": -7950,
-       "ltp": 117.35
+       "oi": 38700,
+       "oi_change": -1100,
+       "ltp": 246.95
       },
       {
        "strike": 19500.0,
-       "oi": 27000,
-       "oi_change": -800,
-       "ltp": 252.8
+       "oi": 23450,
+       "oi_change": -3550,
+       "ltp": 543.2
       },
       {
-       "strike": 19750.0,
-       "oi": 21950,
-       "oi_change": -1500,
-       "ltp": 360.35
+       "strike": 18500.0,
+       "oi": 21700,
+       "oi_change": 1000,
+       "ltp": 99.95
       },
       {
        "strike": 18000.0,
-       "oi": 21900,
-       "oi_change": -1050,
-       "ltp": 24.3
+       "oi": 20600,
+       "oi_change": -1300,
+       "ltp": 38.05
       }
      ],
      "top_call_oi_added": [
       {
        "strike": 20000.0,
-       "oi": 105250,
-       "oi_change": 37700,
-       "ltp": 272.55
+       "oi": 121200,
+       "oi_change": 15950,
+       "ltp": 81.4
       },
       {
-       "strike": 22000.0,
-       "oi": 96900,
-       "oi_change": 10750,
-       "ltp": 15.9
+       "strike": 21000.0,
+       "oi": 92000,
+       "oi_change": 11250,
+       "ltp": 21.8
       },
       {
        "strike": 19750.0,
-       "oi": 17550,
-       "oi_change": 4200,
-       "ltp": 380.75
+       "oi": 28250,
+       "oi_change": 10700,
+       "ltp": 117.2
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 20000.0,
-       "oi": 56400,
-       "oi_change": 3400,
-       "ltp": 506.3
-      },
-      {
-       "strike": 20250.0,
-       "oi": 9350,
-       "oi_change": 1650,
-       "ltp": 662.35
-      },
-      {
        "strike": 19250.0,
-       "oi": 8800,
-       "oi_change": 350,
-       "ltp": 175.45
+       "oi": 12300,
+       "oi_change": 3500,
+       "ltp": 373.1
+      },
+      {
+       "strike": 18250.0,
+       "oi": 4300,
+       "oi_change": 1800,
+       "ltp": 62.95
+      },
+      {
+       "strike": 18750.0,
+       "oi": 4100,
+       "oi_change": 1400,
+       "ltp": 161.1
       }
      ]
     }
@@ -1872,39 +1871,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 383.97,
-    "sma50": 397.19,
-    "sma200": 416.95,
+    "sma20": 382.6,
+    "sma50": 396.59,
+    "sma200": 416.81,
     "dma200_note": null,
-    "rsi14": 41.11,
-    "rsi14_prev": 40.73,
-    "macd": -5.9,
-    "macd_signal": -6.22,
-    "macd_hist": 0.31,
-    "macd_hist_prev": 0.19,
+    "rsi14": 36.74,
+    "rsi14_prev": 41.11,
+    "macd": -6.16,
+    "macd_signal": -6.2,
+    "macd_hist": 0.04,
+    "macd_hist_prev": 0.31,
     "supertrend": 390.36,
     "supertrend_dir": "DOWN",
-    "atr14": 7.2,
-    "vol_last": 5419051,
-    "vol_avg20": 10172072,
-    "vol_ratio": 0.53,
+    "atr14": 7.58,
+    "vol_last": 8415231,
+    "vol_avg20": 9849893,
+    "vol_ratio": 0.85,
     "pivots": {
-     "P": 377.42,
-     "R1": 380.28,
-     "S1": 374.33,
-     "R2": 383.37,
-     "S2": 371.47,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 371.93,
+     "R1": 377.07,
+     "S1": 366.07,
+     "R2": 382.93,
+     "S2": 360.93,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 380.45,
-      "h": 382.5,
-      "l": 377.3,
-      "c": 380.4,
-      "v": 9100694
-     },
      {
       "date": "2026-10-16",
       "o": 380.4,
@@ -1920,17 +1911,19 @@
       "l": 374.55,
       "c": 377.2,
       "v": 5419051
+     },
+     {
+      "date": "2026-10-21",
+      "o": 377.2,
+      "h": 377.8,
+      "l": 366.8,
+      "c": 371.2,
+      "v": 8415231
      }
     ],
-    "high3": 382.5,
-    "low3": 374.55,
+    "high3": 381.15,
+    "low3": 366.8,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": [
-       "doji"
-      ]
-     },
      {
       "date": "2026-10-16",
       "flags": []
@@ -1941,137 +1934,143 @@
        "shooting-star-like",
        "gap down"
       ]
+     },
+     {
+      "date": "2026-10-21",
+      "flags": [
+       "bearish engulfing"
+      ]
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 375.85,
-    "fut_prev_close": 378.55,
-    "spot_underlying": 377.17,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 368.45,
+    "fut_prev_close": 375.85,
+    "spot_underlying": 371.22,
     "lot_size": 1425,
-    "oi": 75534975,
-    "oi_change": -2280000,
-    "oi_change_pct": -2.93,
-    "fut_volume": 3327,
-    "fut_price_change_pct": -0.71,
+    "oi": 67131750,
+    "oi_change": -8403225,
+    "oi_change_pct": -11.12,
+    "fut_volume": 10540,
+    "fut_price_change_pct": -1.97,
     "buildup": "LONG UNWINDING",
-    "premium_vs_spot": -1.32,
-    "premium_pct": -0.35,
+    "premium_vs_spot": -2.77,
+    "premium_pct": -0.75,
     "next_expiry": "2026-11-23",
-    "next_oi": 18187275,
-    "next_oi_change": 1576050,
-    "rollover_pct": 19.41,
+    "next_oi": 23673525,
+    "next_oi_change": 5486250,
+    "rollover_pct": 26.07,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 40269075,
-     "put_oi_total": 27409875,
-     "pcr_oi": 0.68,
+     "call_oi_total": 38353875,
+     "put_oi_total": 25272375,
+     "pcr_oi": 0.66,
      "max_pain": 385.0,
      "top_call_oi": [
       {
        "strike": 400.0,
-       "oi": 7585275,
-       "oi_change": -99750,
-       "ltp": 0.4
-      },
-      {
-       "strike": 390.0,
-       "oi": 5395050,
-       "oi_change": 38475,
-       "ltp": 0.9
+       "oi": 6905550,
+       "oi_change": -679725,
+       "ltp": 0.2
       },
       {
        "strike": 380.0,
-       "oi": 4343400,
-       "oi_change": -262200,
-       "ltp": 2.95
+       "oi": 4649775,
+       "oi_change": 306375,
+       "ltp": 1.05
+      },
+      {
+       "strike": 390.0,
+       "oi": 4632675,
+       "oi_change": -762375,
+       "ltp": 0.45
       },
       {
        "strike": 385.0,
-       "oi": 4269300,
-       "oi_change": 125400,
-       "ltp": 1.65
+       "oi": 3898800,
+       "oi_change": -370500,
+       "ltp": 0.65
       },
       {
        "strike": 395.0,
-       "oi": 2797275,
-       "oi_change": 193800,
-       "ltp": 0.55
+       "oi": 2220150,
+       "oi_change": -577125,
+       "ltp": 0.3
       }
      ],
      "top_put_oi": [
       {
        "strike": 380.0,
-       "oi": 3273225,
-       "oi_change": -45600,
-       "ltp": 7.25
+       "oi": 3018150,
+       "oi_change": -255075,
+       "ltp": 12.8
       },
       {
        "strike": 370.0,
-       "oi": 3189150,
-       "oi_change": 72675,
-       "ltp": 2.55
+       "oi": 2797275,
+       "oi_change": -391875,
+       "ltp": 5.35
       },
       {
        "strike": 400.0,
-       "oi": 2924100,
-       "oi_change": -81225,
-       "ltp": 24.4
+       "oi": 2716050,
+       "oi_change": -208050,
+       "ltp": 31.9
       },
       {
        "strike": 390.0,
-       "oi": 2694675,
-       "oi_change": -116850,
-       "ltp": 14.8
+       "oi": 2451000,
+       "oi_change": -243675,
+       "ltp": 21.9
       },
       {
        "strike": 385.0,
-       "oi": 1895250,
-       "oi_change": -52725,
-       "ltp": 10.95
+       "oi": 1661550,
+       "oi_change": -233700,
+       "ltp": 17.45
       }
      ],
      "top_call_oi_added": [
       {
        "strike": 375.0,
-       "oi": 1557525,
-       "oi_change": 195225,
-       "ltp": 5.05
+       "oi": 2033475,
+       "oi_change": 475950,
+       "ltp": 2.0
       },
       {
-       "strike": 395.0,
-       "oi": 2797275,
-       "oi_change": 193800,
-       "ltp": 0.55
+       "strike": 370.0,
+       "oi": 1888125,
+       "oi_change": 364800,
+       "ltp": 3.65
       },
       {
-       "strike": 385.0,
-       "oi": 4269300,
-       "oi_change": 125400,
-       "ltp": 1.65
+       "strike": 380.0,
+       "oi": 4649775,
+       "oi_change": 306375,
+       "ltp": 1.05
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 375.0,
-       "oi": 1674375,
-       "oi_change": 195225,
-       "ltp": 4.25
+       "strike": 355.0,
+       "oi": 780900,
+       "oi_change": 76950,
+       "ltp": 0.85
       },
       {
-       "strike": 370.0,
-       "oi": 3189150,
+       "strike": 365.0,
+       "oi": 862125,
        "oi_change": 72675,
-       "ltp": 2.55
+       "ltp": 3.1
       },
       {
-       "strike": 460.0,
-       "oi": 216600,
-       "oi_change": 0,
-       "ltp": 86.3
+       "strike": 310.0,
+       "oi": 114000,
+       "oi_change": 31350,
+       "ltp": 0.05
       }
      ]
     }
@@ -2081,39 +2080,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 1757.01,
-    "sma50": 1802.28,
-    "sma200": 1687.73,
+    "sma20": 1748.34,
+    "sma50": 1799.73,
+    "sma200": 1687.56,
     "dma200_note": null,
-    "rsi14": 36.23,
-    "rsi14_prev": 39.78,
-    "macd": -32.79,
-    "macd_signal": -28.6,
-    "macd_hist": -4.2,
-    "macd_hist_prev": -3.63,
-    "supertrend": 1830.06,
+    "rsi14": 32.79,
+    "rsi14_prev": 36.23,
+    "macd": -35.99,
+    "macd_signal": -30.08,
+    "macd_hist": -5.92,
+    "macd_hist_prev": -4.2,
+    "supertrend": 1800.49,
     "supertrend_dir": "DOWN",
-    "atr14": 44.72,
-    "vol_last": 256418,
-    "vol_avg20": 440319,
-    "vol_ratio": 0.58,
+    "atr14": 46.63,
+    "vol_last": 297385,
+    "vol_avg20": 414802,
+    "vol_ratio": 0.72,
     "pivots": {
-     "P": 1689.4,
-     "R1": 1712.0,
-     "S1": 1653.8,
-     "R2": 1747.6,
-     "S2": 1631.2,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 1656.2,
+     "R1": 1683.7,
+     "S1": 1619.9,
+     "R2": 1720.0,
+     "S2": 1592.4,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 1695.5,
-      "h": 1720.0,
-      "l": 1674.2,
-      "c": 1708.0,
-      "v": 323865
-     },
      {
       "date": "2026-10-16",
       "o": 1714.0,
@@ -2129,17 +2120,19 @@
       "l": 1666.8,
       "c": 1676.4,
       "v": 256418
+     },
+     {
+      "date": "2026-10-21",
+      "o": 1682.0,
+      "h": 1692.5,
+      "l": 1628.7,
+      "c": 1647.4,
+      "v": 297385
      }
     ],
     "high3": 1725.0,
-    "low3": 1666.8,
+    "low3": 1628.7,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": [
-       "gap down"
-      ]
-     },
      {
       "date": "2026-10-16",
       "flags": []
@@ -2147,137 +2140,141 @@
      {
       "date": "2026-10-19",
       "flags": []
+     },
+     {
+      "date": "2026-10-21",
+      "flags": []
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 1675.6,
-    "fut_prev_close": 1711.4,
-    "spot_underlying": 1676.39,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 1641.0,
+    "fut_prev_close": 1675.6,
+    "spot_underlying": 1647.4,
     "lot_size": 350,
-    "oi": 4514650,
-    "oi_change": 105700,
-    "oi_change_pct": 2.4,
-    "fut_volume": 2278,
-    "fut_price_change_pct": -2.09,
-    "buildup": "SHORT BUILDUP",
-    "premium_vs_spot": -0.79,
-    "premium_pct": -0.05,
+    "oi": 4413500,
+    "oi_change": -101150,
+    "oi_change_pct": -2.24,
+    "fut_volume": 2253,
+    "fut_price_change_pct": -2.06,
+    "buildup": "LONG UNWINDING",
+    "premium_vs_spot": -6.4,
+    "premium_pct": -0.39,
     "next_expiry": "2026-11-23",
-    "next_oi": 204050,
-    "next_oi_change": 122150,
-    "rollover_pct": 4.32,
+    "next_oi": 504700,
+    "next_oi_change": 300650,
+    "rollover_pct": 10.26,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 1666350,
-     "put_oi_total": 1201550,
-     "pcr_oi": 0.72,
+     "call_oi_total": 1470000,
+     "put_oi_total": 998550,
+     "pcr_oi": 0.68,
      "max_pain": 1700.0,
      "top_call_oi": [
       {
+       "strike": 1900.0,
+       "oi": 177450,
+       "oi_change": -8400,
+       "ltp": 0.2
+      },
+      {
        "strike": 1800.0,
-       "oi": 246050,
-       "oi_change": -16450,
-       "ltp": 2.35
+       "oi": 168000,
+       "oi_change": -78050,
+       "ltp": 0.75
       },
       {
        "strike": 1700.0,
-       "oi": 196000,
-       "oi_change": 43400,
-       "ltp": 17.55
-      },
-      {
-       "strike": 1900.0,
-       "oi": 185850,
-       "oi_change": -40600,
-       "ltp": 0.5
-      },
-      {
-       "strike": 1740.0,
-       "oi": 171850,
-       "oi_change": 25200,
-       "ltp": 7.7
+       "oi": 148400,
+       "oi_change": -47600,
+       "ltp": 6.2
       },
       {
        "strike": 1680.0,
-       "oi": 150150,
-       "oi_change": 120050,
-       "ltp": 25.6
+       "oi": 148050,
+       "oi_change": -2100,
+       "ltp": 9.75
+      },
+      {
+       "strike": 1720.0,
+       "oi": 123550,
+       "oi_change": -12600,
+       "ltp": 3.75
       }
      ],
      "top_put_oi": [
       {
-       "strike": 1560.0,
-       "oi": 162050,
-       "oi_change": -122850,
-       "ltp": 1.75
-      },
-      {
        "strike": 1680.0,
-       "oi": 135100,
-       "oi_change": 79800,
-       "ltp": 29.9
+       "oi": 113400,
+       "oi_change": -21700,
+       "ltp": 48.2
       },
       {
-       "strike": 1660.0,
-       "oi": 125300,
-       "oi_change": 59150,
-       "ltp": 20.1
-      },
-      {
-       "strike": 1600.0,
-       "oi": 112350,
-       "oi_change": -63350,
-       "ltp": 5.1
+       "strike": 1560.0,
+       "oi": 110250,
+       "oi_change": -51800,
+       "ltp": 2.25
       },
       {
        "strike": 1760.0,
-       "oi": 104650,
-       "oi_change": -14700,
-       "ltp": 89.2
+       "oi": 97300,
+       "oi_change": -7350,
+       "ltp": 119.2
+      },
+      {
+       "strike": 1580.0,
+       "oi": 87850,
+       "oi_change": 28700,
+       "ltp": 4.1
+      },
+      {
+       "strike": 1600.0,
+       "oi": 85750,
+       "oi_change": -26600,
+       "ltp": 7.4
       }
      ],
      "top_call_oi_added": [
       {
-       "strike": 1680.0,
-       "oi": 150150,
-       "oi_change": 120050,
-       "ltp": 25.6
+       "strike": 1660.0,
+       "oi": 82600,
+       "oi_change": 57750,
+       "ltp": 15.2
       },
       {
-       "strike": 1700.0,
-       "oi": 196000,
-       "oi_change": 43400,
-       "ltp": 17.55
+       "strike": 1640.0,
+       "oi": 37100,
+       "oi_change": 37100,
+       "ltp": 22.95
       },
       {
-       "strike": 1740.0,
-       "oi": 171850,
-       "oi_change": 25200,
-       "ltp": 7.7
+       "strike": 1620.0,
+       "oi": 21700,
+       "oi_change": 21700,
+       "ltp": 34.85
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 1680.0,
-       "oi": 135100,
-       "oi_change": 79800,
-       "ltp": 29.9
+       "strike": 1620.0,
+       "oi": 63700,
+       "oi_change": 30100,
+       "ltp": 13.05
       },
       {
-       "strike": 1660.0,
-       "oi": 125300,
-       "oi_change": 59150,
-       "ltp": 20.1
+       "strike": 1580.0,
+       "oi": 87850,
+       "oi_change": 28700,
+       "ltp": 4.1
       },
       {
-       "strike": 1520.0,
-       "oi": 6300,
-       "oi_change": 350,
-       "ltp": 1.0
+       "strike": 1540.0,
+       "oi": 12600,
+       "oi_change": 2100,
+       "ltp": 1.3
       }
      ]
     }
@@ -2287,39 +2284,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 3401.6,
-    "sma50": 3575.59,
-    "sma200": 3613.35,
+    "sma20": 3377.35,
+    "sma50": 3561.77,
+    "sma200": 3608.88,
     "dma200_note": null,
-    "rsi14": 38.45,
-    "rsi14_prev": 40.13,
-    "macd": -88.32,
-    "macd_signal": -80.49,
-    "macd_hist": -7.84,
-    "macd_hist_prev": -10.08,
-    "supertrend": 3585.7,
+    "rsi14": 34.25,
+    "rsi14_prev": 38.45,
+    "macd": -93.86,
+    "macd_signal": -83.16,
+    "macd_hist": -10.7,
+    "macd_hist_prev": -7.84,
+    "supertrend": 3532.53,
     "supertrend_dir": "DOWN",
-    "atr14": 107.28,
-    "vol_last": 269611,
-    "vol_avg20": 977227,
-    "vol_ratio": 0.28,
+    "atr14": 108.63,
+    "vol_last": 413345,
+    "vol_avg20": 927368,
+    "vol_ratio": 0.45,
     "pivots": {
-     "P": 3259.23,
-     "R1": 3281.67,
-     "S1": 3227.57,
-     "R2": 3313.33,
-     "S2": 3205.13,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 3192.8,
+     "R1": 3239.3,
+     "S1": 3118.6,
+     "R2": 3313.5,
+     "S2": 3072.1,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 3286.1,
-      "h": 3299.9,
-      "l": 3238.1,
-      "c": 3260.0,
-      "v": 365105
-     },
      {
       "date": "2026-10-16",
       "o": 3275.0,
@@ -2335,15 +2324,19 @@
       "l": 3236.8,
       "c": 3250.0,
       "v": 269611
+     },
+     {
+      "date": "2026-10-21",
+      "o": 3253.3,
+      "h": 3267.0,
+      "l": 3146.3,
+      "c": 3165.1,
+      "v": 413345
      }
     ],
     "high3": 3328.9,
-    "low3": 3236.8,
+    "low3": 3146.3,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": []
-     },
      {
       "date": "2026-10-16",
       "flags": [
@@ -2355,137 +2348,141 @@
       "flags": [
        "bearish engulfing"
       ]
+     },
+     {
+      "date": "2026-10-21",
+      "flags": []
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 3238.5,
-    "fut_prev_close": 3272.6,
-    "spot_underlying": 3253.01,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 3150.4,
+    "fut_prev_close": 3238.5,
+    "spot_underlying": 3164.87,
     "lot_size": 150,
-    "oi": 4144650,
-    "oi_change": -52650,
-    "oi_change_pct": -1.25,
-    "fut_volume": 524,
-    "fut_price_change_pct": -1.04,
+    "oi": 3962100,
+    "oi_change": -182550,
+    "oi_change_pct": -4.4,
+    "fut_volume": 2672,
+    "fut_price_change_pct": -2.72,
     "buildup": "LONG UNWINDING",
-    "premium_vs_spot": -14.51,
-    "premium_pct": -0.45,
+    "premium_vs_spot": -14.47,
+    "premium_pct": -0.46,
     "next_expiry": "2026-11-23",
-    "next_oi": 741900,
-    "next_oi_change": 13050,
-    "rollover_pct": 15.18,
+    "next_oi": 1032000,
+    "next_oi_change": 290100,
+    "rollover_pct": 20.66,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 1158450,
-     "put_oi_total": 1006800,
-     "pcr_oi": 0.87,
-     "max_pain": 3400.0,
+     "call_oi_total": 1091850,
+     "put_oi_total": 988050,
+     "pcr_oi": 0.9,
+     "max_pain": 3450.0,
      "top_call_oi": [
       {
        "strike": 3600.0,
-       "oi": 278100,
-       "oi_change": -8250,
-       "ltp": 2.0
+       "oi": 265800,
+       "oi_change": -12300,
+       "ltp": 0.1
       },
       {
        "strike": 3500.0,
-       "oi": 139350,
-       "oi_change": -4650,
-       "ltp": 7.0
+       "oi": 132150,
+       "oi_change": -7200,
+       "ltp": 2.0
       },
       {
        "strike": 3400.0,
-       "oi": 119400,
-       "oi_change": -4950,
-       "ltp": 24.2
-      },
-      {
-       "strike": 3700.0,
-       "oi": 105000,
-       "oi_change": -2700,
-       "ltp": 2.5
+       "oi": 107850,
+       "oi_change": -11550,
+       "ltp": 7.05
       },
       {
        "strike": 4000.0,
-       "oi": 93900,
-       "oi_change": -3750,
-       "ltp": 1.0
+       "oi": 90000,
+       "oi_change": -3900,
+       "ltp": 0.1
+      },
+      {
+       "strike": 3700.0,
+       "oi": 86250,
+       "oi_change": -18750,
+       "ltp": 0.5
       }
      ],
      "top_put_oi": [
       {
        "strike": 3600.0,
-       "oi": 164100,
-       "oi_change": 0,
-       "ltp": 313.4
+       "oi": 163950,
+       "oi_change": -150,
+       "ltp": 430.0
       },
       {
        "strike": 3200.0,
-       "oi": 160350,
-       "oi_change": -600,
-       "ltp": 58.5
+       "oi": 158700,
+       "oi_change": -1650,
+       "ltp": 81.4
       },
       {
        "strike": 3000.0,
-       "oi": 151200,
-       "oi_change": -150,
-       "ltp": 27.75
+       "oi": 139050,
+       "oi_change": -12150,
+       "ltp": 25.0
       },
       {
        "strike": 3400.0,
-       "oi": 81900,
-       "oi_change": -150,
-       "ltp": 205.0
+       "oi": 80850,
+       "oi_change": -1050,
+       "ltp": 235.0
       },
       {
        "strike": 3300.0,
-       "oi": 80700,
-       "oi_change": -150,
-       "ltp": 104.0
+       "oi": 79950,
+       "oi_change": -750,
+       "ltp": 150.0
       }
      ],
      "top_call_oi_added": [
       {
-       "strike": 3350.0,
-       "oi": 29100,
-       "oi_change": 150,
-       "ltp": 46.0
+       "strike": 3100.0,
+       "oi": 1500,
+       "oi_change": 0,
+       "ltp": 180.0
       },
       {
-       "strike": 3550.0,
-       "oi": 56250,
+       "strike": 2800.0,
+       "oi": 0,
        "oi_change": 0,
-       "ltp": 2.45
+       "ltp": 659.25
       },
       {
-       "strike": 3200.0,
-       "oi": 76050,
+       "strike": 3150.0,
+       "oi": 2100,
        "oi_change": 0,
-       "ltp": 120.0
+       "ltp": 167.35
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 3650.0,
-       "oi": 11850,
-       "oi_change": 0,
-       "ltp": 441.15
-      },
-      {
-       "strike": 3450.0,
-       "oi": 15450,
-       "oi_change": 0,
-       "ltp": 251.85
+       "strike": 3250.0,
+       "oi": 29550,
+       "oi_change": 150,
+       "ltp": 109.5
       },
       {
        "strike": 3900.0,
        "oi": 5700,
        "oi_change": 0,
        "ltp": 625.0
+      },
+      {
+       "strike": 3800.0,
+       "oi": 14400,
+       "oi_change": 0,
+       "ltp": 583.5
       }
      ]
     }
@@ -2495,39 +2492,31 @@
    "in_fo_ban": false,
    "technicals": {
     "sessions_of_history": 223,
-    "sma20": 560.1,
-    "sma50": 576.89,
-    "sma200": 584.99,
+    "sma20": 556.76,
+    "sma50": 575.33,
+    "sma200": 584.43,
     "dma200_note": null,
-    "rsi14": 40.15,
-    "rsi14_prev": 40.71,
-    "macd": -11.79,
-    "macd_signal": -9.85,
-    "macd_hist": -1.93,
-    "macd_hist_prev": -2.47,
+    "rsi14": 35.68,
+    "rsi14_prev": 40.15,
+    "macd": -12.68,
+    "macd_signal": -10.42,
+    "macd_hist": -2.26,
+    "macd_hist_prev": -1.93,
     "supertrend": 572.17,
     "supertrend_dir": "DOWN",
-    "atr14": 14.04,
-    "vol_last": 3040983,
-    "vol_avg20": 3140008,
-    "vol_ratio": 0.97,
+    "atr14": 16.56,
+    "vol_last": 10581057,
+    "vol_avg20": 2932207,
+    "vol_ratio": 3.61,
     "pivots": {
-     "P": 540.63,
-     "R1": 545.17,
-     "S1": 533.87,
-     "R2": 551.93,
-     "S2": 529.33,
-     "basis": "classic pivots on 2026-10-19 H/L/C"
+     "P": 535.15,
+     "R1": 549.7,
+     "S1": 510.45,
+     "R2": 574.4,
+     "S2": 495.9,
+     "basis": "classic pivots on 2026-10-21 H/L/C"
     },
     "last3": [
-     {
-      "date": "2026-10-15",
-      "o": 532.75,
-      "h": 534.0,
-      "l": 524.5,
-      "c": 531.0,
-      "v": 3427307
-     },
      {
       "date": "2026-10-16",
       "o": 535.0,
@@ -2543,18 +2532,19 @@
       "l": 536.1,
       "c": 538.4,
       "v": 3040983
+     },
+     {
+      "date": "2026-10-21",
+      "o": 559.85,
+      "h": 559.85,
+      "l": 520.6,
+      "c": 525.0,
+      "v": 10581057
      }
     ],
-    "high3": 547.4,
-    "low3": 524.5,
+    "high3": 559.85,
+    "low3": 520.6,
     "candles": [
-     {
-      "date": "2026-10-15",
-      "flags": [
-       "hammer-like",
-       "gap down"
-      ]
-     },
      {
       "date": "2026-10-16",
       "flags": [
@@ -2564,137 +2554,143 @@
      {
       "date": "2026-10-19",
       "flags": []
+     },
+     {
+      "date": "2026-10-21",
+      "flags": [
+       "gap up"
+      ]
      }
     ],
     "crossover_20_50": null
    },
    "fno": {
     "near_expiry": "2026-10-27",
-    "calendar_days_to_expiry": 8,
-    "fut_close": 544.5,
-    "fut_prev_close": 541.65,
-    "spot_underlying": 538.36,
+    "calendar_days_to_expiry": 6,
+    "fut_close": 523.6,
+    "fut_prev_close": 544.5,
+    "spot_underlying": 525.0,
     "lot_size": 1225,
-    "oi": 24693550,
-    "oi_change": 586775,
-    "oi_change_pct": 2.43,
-    "fut_volume": 2601,
-    "fut_price_change_pct": 0.53,
-    "buildup": "LONG BUILDUP",
-    "premium_vs_spot": 6.14,
-    "premium_pct": 1.14,
+    "oi": 22886675,
+    "oi_change": -1806875,
+    "oi_change_pct": -7.32,
+    "fut_volume": 6586,
+    "fut_price_change_pct": -3.84,
+    "buildup": "LONG UNWINDING",
+    "premium_vs_spot": -1.4,
+    "premium_pct": -0.27,
     "next_expiry": "2026-11-23",
-    "next_oi": 2034725,
-    "next_oi_change": 355250,
-    "rollover_pct": 7.61,
+    "next_oi": 4102525,
+    "next_oi_change": 2067800,
+    "rollover_pct": 15.2,
     "options": {
      "expiry": "2026-10-27",
-     "call_oi_total": 25955300,
-     "put_oi_total": 12084625,
-     "pcr_oi": 0.47,
+     "call_oi_total": 27406925,
+     "put_oi_total": 10528875,
+     "pcr_oi": 0.38,
      "max_pain": 550.0,
      "top_call_oi": [
       {
        "strike": 600.0,
-       "oi": 6012300,
-       "oi_change": 2044525,
-       "ltp": 1.35
-      },
-      {
-       "strike": 650.0,
-       "oi": 2876300,
-       "oi_change": -188650,
-       "ltp": 0.3
+       "oi": 5996375,
+       "oi_change": -15925,
+       "ltp": 0.35
       },
       {
        "strike": 550.0,
-       "oi": 2833425,
-       "oi_change": 1096375,
-       "ltp": 9.55
+       "oi": 4234825,
+       "oi_change": 1401400,
+       "ltp": 1.6
+      },
+      {
+       "strike": 560.0,
+       "oi": 3254825,
+       "oi_change": 1305850,
+       "ltp": 1.1
       },
       {
        "strike": 570.0,
        "oi": 2434075,
-       "oi_change": 824425,
-       "ltp": 4.25
+       "oi_change": 0,
+       "ltp": 0.7
       },
       {
-       "strike": 590.0,
-       "oi": 2186625,
-       "oi_change": 45325,
-       "ltp": 1.85
+       "strike": 540.0,
+       "oi": 2132725,
+       "oi_change": 352800,
+       "ltp": 2.8
       }
      ],
      "top_put_oi": [
       {
        "strike": 550.0,
-       "oi": 2186625,
-       "oi_change": 295225,
-       "ltp": 17.05
+       "oi": 2129050,
+       "oi_change": -57575,
+       "ltp": 27.7
       },
       {
        "strike": 540.0,
-       "oi": 1341375,
-       "oi_change": 355250,
-       "ltp": 11.0
-      },
-      {
-       "strike": 520.0,
-       "oi": 1190700,
-       "oi_change": 134750,
-       "ltp": 4.15
+       "oi": 1149050,
+       "oi_change": -192325,
+       "ltp": 19.15
       },
       {
        "strike": 530.0,
-       "oi": 1032675,
-       "oi_change": 142100,
-       "ltp": 6.55
+       "oi": 813400,
+       "oi_change": -219275,
+       "ltp": 11.65
       },
       {
-       "strike": 600.0,
-       "oi": 989800,
-       "oi_change": -19600,
-       "ltp": 56.0
+       "strike": 520.0,
+       "oi": 776650,
+       "oi_change": -414050,
+       "ltp": 5.9
+      },
+      {
+       "strike": 510.0,
+       "oi": 759500,
+       "oi_change": -28175,
+       "ltp": 2.75
       }
      ],
      "top_call_oi_added": [
       {
-       "strike": 600.0,
-       "oi": 6012300,
-       "oi_change": 2044525,
-       "ltp": 1.35
-      },
-      {
        "strike": 550.0,
-       "oi": 2833425,
-       "oi_change": 1096375,
-       "ltp": 9.55
+       "oi": 4234825,
+       "oi_change": 1401400,
+       "ltp": 1.6
       },
       {
-       "strike": 540.0,
-       "oi": 1779925,
-       "oi_change": 1020425,
-       "ltp": 14.5
+       "strike": 560.0,
+       "oi": 3254825,
+       "oi_change": 1305850,
+       "ltp": 1.1
+      },
+      {
+       "strike": 530.0,
+       "oi": 1204175,
+       "oi_change": 441000,
+       "ltp": 5.15
       }
      ],
      "top_put_oi_added": [
       {
-       "strike": 540.0,
-       "oi": 1341375,
-       "oi_change": 355250,
-       "ltp": 11.0
+       "strike": 490.0,
+       "oi": 117600,
+       "oi_change": 7350,
+       "ltp": 0.65
       },
       {
-       "strike": 550.0,
-       "oi": 2186625,
-       "oi_change": 295225,
-       "ltp": 17.05
+       "strike": 640.0,
+       "oi": 13475,
+       "oi_change": 1225,
+       "ltp": 103.0
       },
       {
-       "strike": 500.0,
-       "oi": 891800,
-       "oi_change": 247450,
-       "ltp": 1.45
+       "strike": 660.0,
+       "oi": 1225,
+       "oi_change": 0,
+       "ltp": 116.3
       }
      ]
     }
